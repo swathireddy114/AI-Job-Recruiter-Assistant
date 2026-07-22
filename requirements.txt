@@ -1,0 +1,84 @@
+Flask==3.1.0
+Flask-SQLAlchemy==3.1.1
+SQLAlchemy==2.0.49
+PyMySQL==1.1.1
+Werkzeug==3.1.8
+
+numpy==2.2.6
+pandas==2.2.3
+scikit-learn==1.6.1
+joblib==1.5.3
+scipy==1.15.3
+
+nltk==3.9.4
+textblob==0.19.0
+contractions==0.1.73
+
+sentence-transformers==3.4.1
+transformers==4.57.6
+torch==2.11.0
+huggingface_hub==0.36.2
+
+langchain==0.3.20
+langchain-groq==0.3.2
+groq==0.37.1
+
+python-docx==1.2.0
+reportlab==4.4.10
+requests==2.33.1
+
+DECLARATION
+All sentences or passages quoted in this report, or computer code of any form whatsoever
+used and/or submitted at any stages, which are taken from other people’s work have
+been specifically acknowledged by clear citation of the source, specifying author, work,
+date and page(s). Any part of my own written work, or software coding, which is
+substantially based upon other people’s work, is duly accompanied by clear citation of
+the source, specifying author, work, date and page(s). I understand that failure to do this
+amounts to plagiarism and will be considered 
+
+grounds for failure in this module and the
+degree examination as a whole.
+Name: [Your name]
+Date: [Date of submission]
+
+
+
+
+
+
+AI Job Recruiter Assistant Chatbot is a system designed to automate and improve early stages of hiring. 
+
+
+
+
+
+Growing recruitment demands require faster and more intelligent candidate screening systems.
+
+
+Recruiters struggle with:
+
+ Manual resume screening
+
+ Keyword-based candidate filtering
+
+Difficulty in ranking candidates objectively
+
+ Lack of contextual understanding in existing systems
+
+ Limited explainability during candidate selection
+
+
+Python – Core programming language used for backend development, machine learning, and data processing.
+Flask – Lightweight web framework used to build APIs, manage routing, and connect frontend with backend logic.
+SQL (MySQL) – Used for storing resumes, job descriptions, match results, and user data in a structured format.
+HTML – Used to design the structure of web pages such as login, dashboard, and upload interfaces.
+CSS – Used for styling and creating a responsive, user-friendly interface.
+
+AI / ML Technologies
+Scikit-learn – Used for TF-IDF vectorization and Logistic Regression model for job category classification.
+Sentence-Transformers – Used for generating semantic embeddings (Sentence-BERT) for resume-job matching.
+Natural Language Processing (NLP) – Used for text preprocessing, skill extraction, and information parsing.
+
+Database & Storage
+SQLAlchemy – ORM used to interact with the database using Python objects.
+File System Storage – Used to store uploaded resumes and job description files
