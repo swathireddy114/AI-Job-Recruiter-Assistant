@@ -18,6 +18,22 @@ Traditional recruitment processes involve manual resume screening, keyword-based
 The system uses Sentence-BERT embeddings and cosine similarity to perform contextual candidate matching beyond simple keyword overlap.
 
 ---
+## Screenshots
+
+### Login Page
+![Login Page](login.png)
+
+### Recruiter Dashboard
+![Dashboard](dashboard.png)
+
+### Resume Upload
+![Resume Upload](Resume.png)
+
+### Job Description Upload
+![Job Description](Job%20description.png)
+
+### AI Chatbot
+![AI Chatbot](Chatbot.png)
 
 # Features
 
